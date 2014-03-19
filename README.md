@@ -58,5 +58,5 @@
 * [How to Make Presentations Accessible to All](http://www.w3.org/WAI/training/accessible)
 
 ## Accessibility presentation
-* [Web Accessibility](https://www.icloud.com/iw/#keynote/BAI-2L0tiAWSgLRy4KyBfI1kJzWShzflxwGF/Accessibility) by Charles F. Munat
+* [Web Accessibility]() by Charles F. Munat
 
