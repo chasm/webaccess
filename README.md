@@ -58,5 +58,5 @@
 * [How to Make Presentations Accessible to All](http://www.w3.org/WAI/training/accessible)
 
 ## Accessibility presentation
-* [Web Accessibility]() by Charles F. Munat
+* [Web Accessibility](./Accessibility.pdf) by Charles F. Munat
 
